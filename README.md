@@ -14,9 +14,9 @@ A Fun project let you search items from websites.
 
 Vite serves source code over native ESM. This is essentially letting the browser take over part of the job of a bundler: Vite only needs to transform and serve source code on demand, as the browser requests it. Code behind conditional dynamic imports is only processed if actually used on the current screen.
 
-![App Screenshot](https://lh3.googleusercontent.com/C5tzlgnWuEbAuVXfudwM6JlelktUCACk0UL5ZFNU3mucEg3pOqW9sqaB7vcffDGNi4mWfyqYnGE689h3TxvTLWT9YKyisB55yY4GXJAl)
+![Bundle Based dev server](https://lh3.googleusercontent.com/mL2qeSJBuDstfV1LCwqx3FWS292W0MqQfzOMWYxz25z-tFUrpK_VnF9DqZz1mcE4nCz2KGwtooG4VxmpcjgC5x2bnpic0sxYMmRrd102)
 
-![App Screenshot](https://lh3.googleusercontent.com/tsshRU7asC2ujV17chHLiB_5KuqcZvDu921OotXYpNnHBG8QBMzuNuPQyKXbh4RtD5BRWefmmgiZSI6n1NMqHk344Q_odqLFloVGbMWi)
+![Native ESM Based dev server](https://lh3.googleusercontent.com/V6xEkebY-3FSFvmBwZspVWLJamT6sfd5SS2KMk1bKuRsIHykcXUwSvUnGrcen5Ruyouoc8RoY48OpV2uSVH5UjRjuRoXzuq3y47KzqMAqQ)
 
 ### To create react and vite App
 ```
